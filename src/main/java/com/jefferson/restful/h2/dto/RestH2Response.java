@@ -1,8 +1,8 @@
 package com.jefferson.restful.h2.dto;
 
-import java.util.List;
+import com.jefferson.restful.h2.dao.entity.RestH2Entity;
 
-import com.jefferson.restful.h2.entity.RestH2Entity;
+import java.util.List;
 
 public class RestH2Response {
 
